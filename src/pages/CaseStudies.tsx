@@ -10,8 +10,8 @@ const caseStudies = [
     id: 'parag-milk-foods',
     title: 'Parag Milk Foods',
     subtitle: 'GO Cheese Positioning Against Market Leader',
-    challenge: 'Establish GO Cheese as a premium alternative to the dominant market leader in a highly competitive category, overcoming limited brand awareness and entrenched consumer preferences.',
-    approach: 'Developed a comprehensive PR strategy focusing on product differentiation, quality ingredients, and innovative flavors. Executed a multi-channel media campaign highlighting GO Cheese's farm-to-fork process and superior taste profile.',
+    challenge: "Establish GO Cheese as a premium alternative to the dominant market leader in a highly competitive category, overcoming limited brand awareness and entrenched consumer preferences.",
+    approach: "Developed a comprehensive PR strategy focusing on product differentiation, quality ingredients, and innovative flavors. Executed a multi-channel media campaign highlighting GO Cheese's farm-to-fork process and superior taste profile.",
     results: [
       '45% increase in brand awareness within 6 months',
       '28% sales growth year-over-year following the campaign',
@@ -29,8 +29,8 @@ const caseStudies = [
     id: 'holachef',
     title: 'HolaChef',
     subtitle: 'Startup Scaling & Fundraising Success',
-    challenge: 'Establish brand credibility and media presence for a food-tech startup in a crowded market to support Series B fundraising efforts and customer acquisition goals.',
-    approach: 'Created a strategic media relations plan highlighting the founder's vision, unique business model, and culinary expertise. Developed a thought leadership program positioning HolaChef at the forefront of food-tech innovation.',
+    challenge: "Establish brand credibility and media presence for a food-tech startup in a crowded market to support Series B fundraising efforts and customer acquisition goals.",
+    approach: "Created a strategic media relations plan highlighting the founder's vision, unique business model, and culinary expertise. Developed a thought leadership program positioning HolaChef at the forefront of food-tech innovation.",
     results: [
       'Secured $5M Series B funding with positive investor sentiment',
       'Generated 75+ media features across business and lifestyle publications',
@@ -48,8 +48,8 @@ const caseStudies = [
     id: 'indiabulls',
     title: 'Indiabulls Real Estate',
     subtitle: 'Reputation Management During Market Fluctuations',
-    challenge: 'Maintain investor confidence and positive brand perception during a period of significant real estate market volatility and regulatory changes that impacted the entire sector.',
-    approach: 'Implemented a proactive reputation management strategy focusing on transparent communication, financial stability messaging, and highlighting the company's long-term vision. Developed a crisis preparedness plan to address potential negative scenarios.',
+    challenge: "Maintain investor confidence and positive brand perception during a period of significant real estate market volatility and regulatory changes that impacted the entire sector.",
+    approach: "Implemented a proactive reputation management strategy focusing on transparent communication, financial stability messaging, and highlighting the company's long-term vision. Developed a crisis preparedness plan to address potential negative scenarios.",
     results: [
       'Maintained stable share price despite sector-wide volatility',
       'Secured positive coverage in 80% of media mentions during the period',
@@ -67,8 +67,8 @@ const caseStudies = [
     id: 'l-and-t-realty',
     title: 'L&T Realty',
     subtitle: 'Luxury Project Launch Campaign',
-    challenge: 'Launch a high-end luxury residential project during an economic slowdown, targeting ultra-high-net-worth individuals with a compelling narrative that would drive sales despite market conditions.',
-    approach: 'Crafted an exclusive PR campaign emphasizing the project's unique architectural elements, premium amenities, and investment value. Created targeted media engagements with luxury lifestyle and business publications, complemented by invitation-only preview events.',
+    challenge: "Launch a high-end luxury residential project during an economic slowdown, targeting ultra-high-net-worth individuals with a compelling narrative that would drive sales despite market conditions.",
+    approach: "Crafted an exclusive PR campaign emphasizing the project's unique architectural elements, premium amenities, and investment value. Created targeted media engagements with luxury lifestyle and business publications, complemented by invitation-only preview events.",
     results: [
       '85% of units sold within the first three months of launch',
       'Coverage in 25+ premium publications reaching the target demographic',

@@ -11,7 +11,7 @@ const caseStudies = [
     subtitle: 'GO Cheese Positioning Against Market Leader',
     description: 'Strategic PR campaign that successfully positioned GO Cheese as a premium alternative to the market leader, resulting in 45% increase in brand awareness and 28% sales growth.',
     image: 'https://images.unsplash.com/photo-1486485764572-92b96f21882a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80',
-    link: '/case-studies/parag-milk-foods'
+    link: '/case-studies#parag-milk-foods'
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const caseStudies = [
     subtitle: 'Startup Scaling & Fundraising Success',
     description: 'Comprehensive media relations strategy that helped HolaChef secure Series B funding of $5M and establish itself as a leading food-tech innovator in a competitive market.',
     image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80',
-    link: '/case-studies/holachef'
+    link: '/case-studies#holachef'
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const caseStudies = [
     subtitle: 'Reputation Management During Market Fluctuations',
     description: 'Strategic communication campaign that maintained investor confidence during market volatility, resulting in stable share price and positive media coverage.',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80',
-    link: '/case-studies/indiabulls'
+    link: '/case-studies#indiabulls'
   }
 ];
 
